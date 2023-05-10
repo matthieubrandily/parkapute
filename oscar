@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Une histoire de nain</title>
+    <style>
+      /* Style pour le soulignement en jaune */
+      .yellow-underline {
+        text-decoration: underline yellow;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Une histoire de nain</h1>
+    <p>
+      Il était une fois un nain appelé <span class="yellow-underline">Gimli</span>. Gimli était un nain fier et courageux, qui aimait creuser dans les montagnes à la recherche de pierres précieuses.
+    </p>
+    <p>
+      Un jour, Gimli entendit parler d'un trésor caché dans les profondeurs de la montagne. Il décida donc de partir à l'aventure avec ses amis, les autres nains de son clan. Ils creusèrent pendant des jours et des nuits, évitant les pièges et les obstacles sur leur chemin.
+    </p>
+    <p>
+      Finalement, ils atteignirent la salle du trésor, où ils découvrirent des montagnes d'or et de bijoux. Gimli était ravi, mais il savait que l'or n'était pas la chose la plus importante. Il prit juste assez d'or pour aider son clan à prospérer, puis retourna chez lui avec un cœur rempli de fierté et de satisfaction.
+    </p>
+  </body>
+</html>
